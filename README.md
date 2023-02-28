@@ -15,3 +15,15 @@ Repositori ini digunakan untuk merekam jejak perkembangan saya ketika belajar da
   Pada pembelajaran ini saya mempelajari bagaimana cara menambahkan elemen seperti paragraf, heading, gambar, list, format teks, hingga menerapkan struktur layout dasar menggunakan elemen dengan pendekatan semantic <b>HTML</b>.
   </li>
 </ol>
+
+- <b>Selasa, 28 Februari 2023.</b>
+<ol>
+  <li>
+  Pengenalan <b>CSS</b> (Styling).
+  Pada pembelajaran ini saya mempelajari tentang pengenalan <b>CSS</b>, Struktur <b>CSS</b>, Membuat file <b>CSS</b>, Menyambung file <b>CSS</b> dan <b>HTML</b>, dan konsep <b>CSS</b>.
+  </li>
+   <li>
+  Pendalaman <b>CSS</b> (Styling).
+  Pada pembelajaran ini saya mempelajari tentang selector <b>CSS</b>, Combinator <b>CSS</b>, Formating text, dan properti properti pada <b>CSS</b>.
+  </li>
+</ol>
