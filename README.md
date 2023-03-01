@@ -27,3 +27,11 @@ Repositori ini digunakan untuk merekam jejak perkembangan saya ketika belajar da
   Pada pembelajaran ini saya mempelajari tentang selector <b>CSS</b>, Combinator <b>CSS</b>, Formating text, dan properti properti pada <b>CSS</b>.
   </li>
 </ol>
+
+- <b>Rabu, 1 Maret 2023</b>.
+<ol>
+  <li>
+  <b>CSS</b> Flexbox.
+  Pada pembelajaran ini saya mempelajari cara penataan tata letak elemen <b>HTML</b> dengan menggunakan Flexbox dan membuat web yang responsif.
+  </li>
+</ol>
